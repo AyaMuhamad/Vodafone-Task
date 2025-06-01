@@ -43,6 +43,7 @@ All documents are related to testing the Yalla Kora Android mobile application.
 - Selenium WebDriver  
 - Cucumber (BDD Framework)  
 - Page Object Model (POM)
+- Allure Report
 
 **Covered:**
 - Login functionality
