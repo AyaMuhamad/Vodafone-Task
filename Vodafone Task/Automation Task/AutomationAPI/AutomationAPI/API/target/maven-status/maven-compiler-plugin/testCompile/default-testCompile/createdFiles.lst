@@ -1,4 +1,0 @@
-steps\runner.class
-steps\APIAutomationTaskSteps\DeleteObjectSteps.class
-steps\Dogs\DogApiSteps.class
-steps\APIAutomationTaskSteps\AddObjectSteps.class
