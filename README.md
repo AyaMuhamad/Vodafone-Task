@@ -44,7 +44,8 @@ All documents are related to testing the Yalla Kora Android mobile application.
 - Cucumber (BDD Framework)  
 - Page Object Model (POM)
 - Allure Report
-
+- Extent Report
+  
 **Covered:**
 - Login functionality
 - Product selection
